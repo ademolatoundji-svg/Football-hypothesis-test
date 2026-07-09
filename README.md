@@ -36,7 +36,6 @@ Colonnes principales utilisées : `date`, `tournament`, `home_score`, `away_scor
 4. **Décision** : si la p-value obtenue est ≤ 0.10, on rejette H₀.
 
 ## 📁 Structure du dépôt
-
 .
 ├── python-analysis/
 │   ├── notebook.ipynb        # Analyse en Python (pandas + pingouin)
@@ -50,6 +49,9 @@ Colonnes principales utilisées : `date`, `tournament`, `home_score`, `away_scor
 │   ├── men_results.csv
 │   └── soccer-pitch.jpg
 └── README.md
+
+
+
 ## 📈 Résultats
 
 | Langage | Outil statistique | p-value | Décision |
